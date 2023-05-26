@@ -60,16 +60,19 @@ public class CardTrick {
     private static void printInfo() {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
-        
+        //edited on github
         System.out.println("My name is Meet");
         System.out.println();
-        
+         //edited on github
         System.out.println("My career ambitions:");
         System.out.println("-- Hacker");
+        System.out.println("-- Businessman");
         System.out.println();
-        
+         //edited on github
         System.out.println("My hobbies:");
         System.out.println("-- Hacking");
+        System.out.println("-- Reading");
+        System.out.println("-- Volunteering");
         System.out.println();
     }
 }
